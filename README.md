@@ -1,6 +1,6 @@
 # Web_home_work!
 **Изменения внесенные на сайте**
-[Изменения сайта 2](https://github.com/de-sl/Web_home_work/assets/140948764/997a4162-e9d4-46e0-912d-6f78e6b9670b)
+![Изменения сайта 2](https://github.com/de-sl/Web_home_work/assets/140948764/997a4162-e9d4-46e0-912d-6f78e6b9670b)
 **Прототип сайта**
 ![Прототип сайта](https://github.com/de-sl/Web_home_work/assets/140948764/81f254cd-eaff-464f-b01d-4c1f6f19b4cc)
 **Протокол шифрования сайта**
